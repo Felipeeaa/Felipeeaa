@@ -31,31 +31,36 @@ Soy un desarrollador de software con una sólida base analítica. Mi experiencia
 ## 🛠️ Tech Stack & Herramientas
 
 ### **Core & Lenguajes**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5/CSS3](https://img.shields.io/badge/HTML5_/_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5_/_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
 ### **Entorno Corporativo & Operaciones (BBVA Tech)**
-![Control-M](https://img.shields.io/badge/Control--M-005A9C?style=for-the-badge)
-![ADA Console](https://img.shields.io/badge/ADA_Console-008080?style=for-the-badge)  
-*(Orquestación batch, monitorización y gestión de flujos críticos)*
+<p align="left">
+  <img src="https://img.shields.io/badge/Control--M-005A9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ADA_Console-008080?style=for-the-badge" />
+</p>
 
 ### **Cloud, Datos & Game Dev**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity_3D-000000?style=for-the-badge&logo=unity&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity_3D-000000?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
 
 ---
 
 ## 💼 Experiencia & Proyectos Destacados
 
 * 🏦 **BBVA Technology (Prácticas):** Gestión operativa y supervisión de flujos de trabajo en entornos de alta disponibilidad utilizando **Control-M** y **ADA Console**.
-* 👥 **[UltimoProyecto](https://github.com/MiguelTabordaC/UltimoProyecto):** Desarrollo colaborativo de un sistema CRUD en **JavaFX**. Encargado de la implementación íntegra de la lógica y testing del módulo de cuentas (*Account*), así como de la capa de estilos visuales en **CSS**.
-* 🐍 **[g5_bank](https://github.com/Felipeeaa/g5_bank):** Módulo nativo para **Odoo ERP** orientado a la simulación y gestión bancaria, aplicando lógica de negocio desarrollada en **Python**.
-* 🔐 **[ProjectInterfaces](https://github.com/Felipeeaa/ProjectInterfaces):** Sistema de gestión de usuarios seguro (Sign In, Sign Up, y encriptación de contraseñas) desarrollado en **JavaFX**.
+* 👥 **[UltimoProyecto](https://github.com/MiguelTabordaC/UltimoProyecto):** Desarrollo colaborativo de un sistema CRUD en **JavaFX**. Responsable del módulo de cuentas (*Account*) y la capa de estilos en **CSS**.
+* 🐍 **[g5_bank](https://github.com/Felipeeaa/g5_bank):** Módulo nativo para **Odoo ERP** orientado a la simulación bancaria, aplicando lógica de negocio avanzada en **Python**.
+* 🔐 **[ProjectInterfaces](https://github.com/Felipeeaa/ProjectInterfaces):** Sistema de gestión de usuarios seguro (Sign In, Sign Up) con encriptación de credenciales en **JavaFX**.
 
 ---
 
