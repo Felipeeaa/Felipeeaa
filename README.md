@@ -1,6 +1,8 @@
 <div align="center">
-  
-# Hello world! Soy Luis Felipe Acosta 👨‍💻
+
+<img src="https://raw.githubusercontent.com/aungmoe/aungmoe/master/assets/banner.gif" alt="Banner animado" width="100%" />
+
+# ⚡ ¡Hello world! Soy Luis Felipe Acosta 👨‍💻
 
 **Técnico Superior en DAM | Software Developer Intern @ BBVA Technology**
 
@@ -34,7 +36,7 @@ Soy un desarrollador de software con una sólida base analítica. Mi experiencia
 
 ### **Entorno Corporativo & Operaciones (BBVA Tech)**
 ![Control-M](https://img.shields.io/badge/Control--M-005A9C?style=for-the-badge)
-![ADA Console](https://img.shields.io/badge/ADA_Console-008080?style=for-the-badge)
+![ADA Console](https://img.shields.io/badge/ADA_Console-008080?style=for-the-badge)  
 *(Orquestación batch, monitorización y gestión de flujos críticos)*
 
 ### **Cloud, Datos & Game Dev**
@@ -49,15 +51,15 @@ Soy un desarrollador de software con una sólida base analítica. Mi experiencia
 
 * 🏦 **BBVA Technology (Prácticas):** Gestión operativa y supervisión de flujos de trabajo en entornos de alta disponibilidad utilizando **Control-M** y **ADA Console**.
 * 👥 **[UltimoProyecto](https://github.com/MiguelTabordaC/UltimoProyecto):** Desarrollo colaborativo de un sistema CRUD en **JavaFX**. Encargado de la implementación íntegra de la lógica y testing del módulo de cuentas (*Account*), así como de la capa de estilos visuales en **CSS**.
-* 🐍 **[g5_bank](https://github.com/Felipeeaa/g5_bank):** Aplicación orientada a la simulación y gestión bancaria, aplicando lógica de negocio desarrollada en **Python**.
-* ☕ **[ProyectInterfaces](https://github.com/Felipeeaa/ProyectInterfaces):** Sistema de gestión de usuarios seguro (Sign In, Sign Up, y encriptación de contraseñas) desarrollado en **JavaFX**.
+* 🐍 **[g5_bank](https://github.com/Felipeeaa/g5_bank):** Módulo nativo para **Odoo ERP** orientado a la simulación y gestión bancaria, aplicando lógica de negocio desarrollada en **Python**.
+* 🔐 **[ProjectInterfaces](https://github.com/Felipeeaa/ProjectInterfaces):** Sistema de gestión de usuarios seguro (Sign In, Sign Up, y encriptación de contraseñas) desarrollado en **JavaFX**.
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipeeaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Felipeeaa" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Felipeeaa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Felipeeaa" />
 </div>
 
 ---
@@ -67,3 +69,4 @@ Soy un desarrollador de software con una sólida base analítica. Mi experiencia
 Si buscas un perfil resolutivo, con madurez profesional y formado en los estándares de un gigante financiero:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfelipe-ao)
+[![Correo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisfelipea40@gmail.com)
