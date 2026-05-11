@@ -1,6 +1,8 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/aungmoe/aungmoe/master/assets/banner.gif)
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Welcome.gif" alt="Banner" width="100%" />
+
+<br>
 
 # ⚡ ¡Hello world! Soy Luis Felipe Acosta 👨‍💻
 
@@ -8,7 +10,7 @@
 
 [![Madrid](https://img.shields.io/badge/Madrid-Location-red?style=flat-square&logo=google-maps)](https://www.linkedin.com/in/luisfelipe-ao)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luisfelipe-ao)
-[![Correo](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luisfelipe.acosta.osorno@gmail.com)
+[![Correo](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luisfelipea40@gmail.com)
 
 *«Transformando lógica analítica y requisitos corporativos en software robusto y escalable.»*
 
@@ -60,7 +62,9 @@ Soy un desarrollador de software con una sólida base analítica. Mi experiencia
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Felipeeaa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Felipeeaa" />
+
+<img src="https://github-readme-stats.shion.dev/api?username=Felipeeaa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Felipeeaa" />
+
 </div>
 
 ---
@@ -70,4 +74,4 @@ Soy un desarrollador de software con una sólida base analítica. Mi experiencia
 Si buscas un perfil resolutivo, con madurez profesional y formado en los estándares de un gigante financiero:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfelipe-ao)
-[![Correo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisfelipe.acosta.osorno@gmail.com)40@gmail.com)
+[![Correo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisfelipea40@gmail.com)
